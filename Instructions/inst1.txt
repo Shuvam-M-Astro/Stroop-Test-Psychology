@@ -1,0 +1,12 @@
+Hello VP,
+
+Task: 
+You will see colour words in congruent or incongruent font colour (e.g., the 
+word "red" presented in red or the word "green" presented in red).
+
+Press the key corresponding to the font colour, ignoring word meaning.
+    
+Red = S Key
+Green = K Key
+
+Press the spacebar to continue. 
